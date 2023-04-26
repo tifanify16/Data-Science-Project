@@ -83,7 +83,6 @@ df.head()
 df = df.rename(columns={'Operatietype':'OperationType', 'Chirurg':'Surgeon', 'Anesthesioloog':'Anesthesiologist', 'Casustype':'CaseType', 'Dagdeel':'DayTipe', 'Leeftijd':'Age', 'Geslacht':'Sex', 'Chronische longziekte':'Chronic lung disease', 'Extracardiale vaatpathie':'Extracardiac vascular pathology', 'Eerdere hartchirurgie':'Previous heart surgery', 'Actieve endocarditis' : 'Active Endocarditis', 'Kritische preoperatieve status':'Critical preoperative status', 'Myocard infact <90 dagen':'Myocardium infact <90 days', 'Aorta chirurgie':'Aortic surgery', 'Euroscore1':'Euroscore1', 'Slechte mobiliteit':'Poor mobility', 'Hypercholesterolemie':'Hypercholesterolemia', 'Hypertensie':'Hypertension', 'Perifeer vaatlijden':'Peripheral vascular disease', 'Geplande operatieduur':'Planned operating time', 'Operatieduur':'Operating time', 'Ziekenhuis ligduur':'Length of Stay in Hospital', 'IC ligduur':'Length of Stay in IC'})
 
 
-# In[25]:
 
 
 df.head()

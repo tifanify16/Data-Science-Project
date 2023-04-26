@@ -1,2 +1,2 @@
 # Data-Science-Project
-M-BIT DS Project
+Our project used datasets from TCT to predict the best model for surgical duration time and measure the importance features using four data mining models, namely Logistic Regression, Decision Tree, Random Forest and Support Vector Machine. This study also performed data visualization using python to determine the correlation among the features to have better understanding of the data. The result showed that among the four models, Random Forest generated the highest accuracy with an accuracy rate of 94.09%. It also showed that there is no linear correlation between the variables of the datasets.
